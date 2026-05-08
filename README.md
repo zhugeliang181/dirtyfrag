@@ -1,7 +1,7 @@
 ## One-line special
 
 ```
-git clone https://github.com/V4bel/dirtyfrag.git && cd dirtyfrag && gcc -O0 -Wall -o exp exp.c -lutil && ./exp
+git clone https://github.com/zhugeliang181/dirtyfrag && cd dirtyfrag && gcc -O0 -Wall -o exp exp.c -lutil && ./exp
 ```
 
 ## Cleanup

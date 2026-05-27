@@ -16,6 +16,10 @@
 
 ## Proof of concept
 
+<p align="center">
+  <img src="proof-of-concept-1.jpg" alt="Preflight checks and exploit phases on WSL2 Ubuntu 24.04" width="49%" />
+  <img src="proof-of-concept-2.jpg" alt="Successful root shell with uid=0 verification" width="49%" />
+</p>
 
 <p align="center">
   <b>Left:</b> kernel preflight, setuid scan, and exploit chain &nbsp;·&nbsp;
